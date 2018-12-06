@@ -1,0 +1,9 @@
+
+.ba-image-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ba-editor-image {
+    width: 45%;
+}
