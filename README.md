@@ -4,12 +4,12 @@ Gutenberg development changed a lot throughout the year and I found many tutoria
 
 The block is a basic before/after image slider based on [this before/after](https://github.com/ArekPastuszka/before-after) library. Thank you, Arkadiusz Pastuszka, for sharing your work. 
 
-![block chooser](https://raw.githubusercontent.com/hallman76/before-after-block/blob/master/screenshots/insert-block.jpg)
+![block chooser](https://raw.githubusercontent.com/hallman76/before-after-block/master/screenshots/insert-block.jpg)
 
 
 # Screenshots
-![screenshot 1](https://raw.githubusercontent.com/hallman76/before-after-block/blob/master/screenshots/1.jpg)
-![screenshot 2](https://raw.githubusercontent.com/hallman76/before-after-block/blob/master/screenshots/2.jpg)
+![screenshot 1](https://raw.githubusercontent.com/hallman76/before-after-block/master/screenshots/1.jpg)
+![screenshot 2](https://raw.githubusercontent.com/hallman76/before-after-block/master/screenshots/2.jpg)
 
 # Making changes
 
